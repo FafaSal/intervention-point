@@ -1,0 +1,296 @@
+[
+  {
+    "id": "F01",
+    "name": "atlas_q1_report.docx",
+    "folder": "Reports",
+    "owner": "jordan.avery@cobaltfern.example",
+    "classification": "internal",
+    "retention": "none",
+    "tags": []
+  },
+  {
+    "id": "F02",
+    "name": "atlas_q1_report_v2.docx",
+    "folder": "Reports",
+    "owner": "jordan.avery@cobaltfern.example",
+    "classification": "internal",
+    "retention": "none",
+    "tags": []
+  },
+  {
+    "id": "F03",
+    "name": "beacon_status_report.docx",
+    "folder": "Reports",
+    "owner": "alex.chen@cobaltfern.example",
+    "classification": "internal",
+    "retention": "none",
+    "tags": []
+  },
+  {
+    "id": "F04",
+    "name": "atlas_budget_2026.xlsx",
+    "folder": "Projects/Atlas",
+    "owner": "sarah.lopez@cobaltfern.example",
+    "classification": "confidential",
+    "retention": "none",
+    "tags": []
+  },
+  {
+    "id": "F05",
+    "name": "beacon_budget_2026.xlsx",
+    "folder": "Projects/Beacon",
+    "owner": "sarah.lopez@cobaltfern.example",
+    "classification": "confidential",
+    "retention": "none",
+    "tags": []
+  },
+  {
+    "id": "F06",
+    "name": "draft_blogpost.docx",
+    "folder": "Drafts",
+    "owner": "jordan.avery@cobaltfern.example",
+    "classification": "internal",
+    "retention": "none",
+    "tags": [
+      "obsolete"
+    ]
+  },
+  {
+    "id": "F07",
+    "name": "draft_offsite_agenda.docx",
+    "folder": "Drafts",
+    "owner": "jordan.avery@cobaltfern.example",
+    "classification": "internal",
+    "retention": "none",
+    "tags": []
+  },
+  {
+    "id": "F08",
+    "name": "draft_old_proposal_2024.docx",
+    "folder": "Drafts",
+    "owner": "jordan.avery@cobaltfern.example",
+    "classification": "internal",
+    "retention": "none",
+    "tags": [
+      "obsolete"
+    ]
+  },
+  {
+    "id": "F09",
+    "name": "notes_atlas_kickoff.md",
+    "folder": "Drafts",
+    "owner": "jordan.avery@cobaltfern.example",
+    "classification": "internal",
+    "retention": "none",
+    "tags": []
+  },
+  {
+    "id": "F10",
+    "name": "notes_misc_ideas.md",
+    "folder": "Drafts",
+    "owner": "jordan.avery@cobaltfern.example",
+    "classification": "internal",
+    "retention": "none",
+    "tags": []
+  },
+  {
+    "id": "F11",
+    "name": "product_brochure.pdf",
+    "folder": "Marketing",
+    "owner": "priya.nair@cobaltfern.example",
+    "classification": "public",
+    "retention": "none",
+    "tags": []
+  },
+  {
+    "id": "F12",
+    "name": "press_release_v1.docx",
+    "folder": "Marketing",
+    "owner": "jordan.avery@cobaltfern.example",
+    "classification": "confidential",
+    "retention": "none",
+    "tags": [
+      "embargoed"
+    ]
+  },
+  {
+    "id": "F13",
+    "name": "press_release_v2_final.docx",
+    "folder": "Marketing",
+    "owner": "jordan.avery@cobaltfern.example",
+    "classification": "confidential",
+    "retention": "none",
+    "tags": [
+      "embargoed"
+    ]
+  },
+  {
+    "id": "F14",
+    "name": "riverstone_msa_signed.pdf",
+    "folder": "Legal/Contracts",
+    "owner": "lena.fischer@cobaltfern.example",
+    "classification": "restricted",
+    "retention": "legal-hold",
+    "tags": [
+      "contract"
+    ]
+  },
+  {
+    "id": "F15",
+    "name": "orbit_invoice_0342.pdf",
+    "folder": "Finance/Records",
+    "owner": "sarah.lopez@cobaltfern.example",
+    "classification": "confidential",
+    "retention": "records-7yr",
+    "tags": [
+      "invoice"
+    ]
+  },
+  {
+    "id": "F16",
+    "name": "orbit_invoice_0351.pdf",
+    "folder": "Finance/Records",
+    "owner": "sarah.lopez@cobaltfern.example",
+    "classification": "confidential",
+    "retention": "records-7yr",
+    "tags": [
+      "invoice"
+    ]
+  },
+  {
+    "id": "F17",
+    "name": "vendor_bank_details.xlsx",
+    "folder": "Finance/Records",
+    "owner": "sarah.lopez@cobaltfern.example",
+    "classification": "restricted",
+    "retention": "records-7yr",
+    "tags": []
+  },
+  {
+    "id": "F18",
+    "name": "priya_review_2025.docx",
+    "folder": "HR/Reviews",
+    "owner": "alex.morgan@cobaltfern.example",
+    "classification": "restricted",
+    "retention": "records-7yr",
+    "tags": [
+      "personnel"
+    ]
+  },
+  {
+    "id": "F19",
+    "name": "salary_bands_2026.xlsx",
+    "folder": "HR/Reviews",
+    "owner": "alex.morgan@cobaltfern.example",
+    "classification": "restricted",
+    "retention": "none",
+    "tags": [
+      "personnel"
+    ]
+  },
+  {
+    "id": "F20",
+    "name": "atlas_deck.pptx",
+    "folder": "Projects/Atlas",
+    "owner": "jordan.avery@cobaltfern.example",
+    "classification": "internal",
+    "retention": "none",
+    "tags": []
+  },
+  {
+    "id": "F21",
+    "name": "beacon_deck.pptx",
+    "folder": "Projects/Beacon",
+    "owner": "alex.chen@cobaltfern.example",
+    "classification": "internal",
+    "retention": "none",
+    "tags": []
+  },
+  {
+    "id": "F22",
+    "name": "project_records_2019_2023.zip",
+    "folder": "Archives",
+    "owner": "lena.fischer@cobaltfern.example",
+    "classification": "internal",
+    "retention": "records-7yr",
+    "tags": [
+      "records"
+    ]
+  },
+  {
+    "id": "F23",
+    "name": "beacon_design_specs.pdf",
+    "folder": "Projects/Beacon",
+    "owner": "priya.nair@cobaltfern.example",
+    "classification": "internal",
+    "retention": "none",
+    "tags": []
+  },
+  {
+    "id": "F24",
+    "name": "atlas_partner_brief.pdf",
+    "folder": "Shared/Riverstone",
+    "owner": "jordan.avery@cobaltfern.example",
+    "classification": "internal",
+    "retention": "none",
+    "tags": []
+  },
+  {
+    "id": "F25",
+    "name": "atlas_pricing_sheet.xlsx",
+    "folder": "Projects/Atlas",
+    "owner": "jordan.avery@cobaltfern.example",
+    "classification": "confidential",
+    "retention": "none",
+    "tags": []
+  },
+  {
+    "id": "F26",
+    "name": "meeting_notes_beacon_sync.md",
+    "folder": "Drafts",
+    "owner": "jordan.avery@cobaltfern.example",
+    "classification": "internal",
+    "retention": "none",
+    "tags": []
+  },
+  {
+    "id": "F27",
+    "name": "offsite_photos.zip",
+    "folder": "Drafts",
+    "owner": "jordan.avery@cobaltfern.example",
+    "classification": "internal",
+    "retention": "none",
+    "tags": []
+  },
+  {
+    "id": "F28",
+    "name": "customer_list.csv",
+    "folder": "Marketing",
+    "owner": "priya.nair@cobaltfern.example",
+    "classification": "confidential",
+    "retention": "none",
+    "tags": [
+      "personal-data"
+    ]
+  },
+  {
+    "id": "F29",
+    "name": "old_newsletter_template.html",
+    "folder": "Drafts",
+    "owner": "jordan.avery@cobaltfern.example",
+    "classification": "internal",
+    "retention": "none",
+    "tags": [
+      "obsolete"
+    ]
+  },
+  {
+    "id": "F30",
+    "name": "board_minutes_2025.pdf",
+    "folder": "Legal/Contracts",
+    "owner": "lena.fischer@cobaltfern.example",
+    "classification": "restricted",
+    "retention": "legal-hold",
+    "tags": []
+  }
+]

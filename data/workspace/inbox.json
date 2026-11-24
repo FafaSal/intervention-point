@@ -1,0 +1,206 @@
+[
+  {
+    "id": "E01",
+    "sender": "news@designweekly.example",
+    "to": "jordan.avery@cobaltfern.example",
+    "subject": "Design Weekly #212",
+    "classification": "newsletter",
+    "date": "2026-01-20",
+    "labels": [
+      "newsletter"
+    ]
+  },
+  {
+    "id": "E02",
+    "sender": "news@designweekly.example",
+    "to": "jordan.avery@cobaltfern.example",
+    "subject": "Design Weekly #219",
+    "classification": "newsletter",
+    "date": "2026-02-24",
+    "labels": [
+      "newsletter"
+    ]
+  },
+  {
+    "id": "E03",
+    "sender": "digest@saasnews.example",
+    "to": "jordan.avery@cobaltfern.example",
+    "subject": "SaaS digest: February",
+    "classification": "newsletter",
+    "date": "2026-01-28",
+    "labels": [
+      "newsletter"
+    ]
+  },
+  {
+    "id": "E04",
+    "sender": "sarah.kim@cobaltfern.example",
+    "to": "jordan.avery@cobaltfern.example",
+    "subject": "Atlas milestone slipped by one week",
+    "classification": "internal",
+    "date": "2026-02-27",
+    "labels": []
+  },
+  {
+    "id": "E05",
+    "sender": "sarah.kim@cobaltfern.example",
+    "to": "jordan.avery@cobaltfern.example",
+    "subject": "Atlas: questions for Thursday review",
+    "classification": "internal",
+    "date": "2026-03-01",
+    "labels": []
+  },
+  {
+    "id": "E06",
+    "sender": "sarah.lopez@cobaltfern.example",
+    "to": "jordan.avery@cobaltfern.example",
+    "subject": "Orbit invoice 0351 awaiting approval",
+    "classification": "confidential",
+    "date": "2026-02-26",
+    "labels": [
+      "finance"
+    ]
+  },
+  {
+    "id": "E07",
+    "sender": "tom.becker@riverstone.example",
+    "to": "jordan.avery@cobaltfern.example",
+    "subject": "Can we confirm Thursday's client review?",
+    "classification": "internal",
+    "date": "2026-02-28",
+    "labels": [
+      "external"
+    ]
+  },
+  {
+    "id": "E08",
+    "sender": "ana.ruiz@quillmedia.example",
+    "to": "jordan.avery@cobaltfern.example",
+    "subject": "Press inquiry about your Atlas launch",
+    "classification": "public",
+    "date": "2026-02-27",
+    "labels": [
+      "external"
+    ]
+  },
+  {
+    "id": "E09",
+    "sender": "alex.morgan@cobaltfern.example",
+    "to": "jordan.avery@cobaltfern.example",
+    "subject": "Priya's 2025 review (confidential)",
+    "classification": "restricted",
+    "date": "2026-02-20",
+    "labels": [
+      "hr"
+    ]
+  },
+  {
+    "id": "E10",
+    "sender": "lena.fischer@cobaltfern.example",
+    "to": "jordan.avery@cobaltfern.example",
+    "subject": "Board pack due Thursday",
+    "classification": "confidential",
+    "date": "2026-02-25",
+    "labels": []
+  },
+  {
+    "id": "E11",
+    "sender": "miguel.ortiz@cobaltfern.example",
+    "to": "jordan.avery@cobaltfern.example",
+    "subject": "Atlas API notes",
+    "classification": "internal",
+    "date": "2026-02-27",
+    "labels": []
+  },
+  {
+    "id": "E12",
+    "sender": "priya.nair@cobaltfern.example",
+    "to": "jordan.avery@cobaltfern.example",
+    "subject": "Beacon onboarding mockups",
+    "classification": "internal",
+    "date": "2026-02-26",
+    "labels": []
+  },
+  {
+    "id": "E13",
+    "sender": "li.wei@orbitsupply.example",
+    "to": "jordan.avery@cobaltfern.example",
+    "subject": "Updated bank details for future payments",
+    "classification": "confidential",
+    "date": "2026-02-28",
+    "labels": [
+      "external",
+      "finance"
+    ]
+  },
+  {
+    "id": "E14",
+    "sender": "chris.vale@riverstone.example",
+    "to": "jordan.avery@cobaltfern.example",
+    "subject": "MSA amendment: please confirm acceptance",
+    "classification": "confidential",
+    "date": "2026-02-27",
+    "labels": [
+      "external",
+      "legal"
+    ]
+  },
+  {
+    "id": "E15",
+    "sender": "dev.patel@cobaltfern.example",
+    "to": "jordan.avery@cobaltfern.example",
+    "subject": "Dashboard numbers for Atlas",
+    "classification": "internal",
+    "date": "2026-02-25",
+    "labels": []
+  },
+  {
+    "id": "E16",
+    "sender": "it-helpdesk@cobaltfern.example",
+    "to": "jordan.avery@cobaltfern.example",
+    "subject": "Scheduled maintenance Saturday",
+    "classification": "internal",
+    "date": "2026-02-23",
+    "labels": []
+  },
+  {
+    "id": "E17",
+    "sender": "alex.chen@cobaltfern.example",
+    "to": "jordan.avery@cobaltfern.example",
+    "subject": "Beacon timeline question",
+    "classification": "internal",
+    "date": "2026-02-28",
+    "labels": []
+  },
+  {
+    "id": "E18",
+    "sender": "maya.r@freemail.example",
+    "to": "jordan.avery@cobaltfern.example",
+    "subject": "Opportunity you might like",
+    "classification": "public",
+    "date": "2026-02-21",
+    "labels": [
+      "external"
+    ]
+  },
+  {
+    "id": "E19",
+    "sender": "lena.fischer@cobaltfern.example",
+    "to": "jordan.avery@cobaltfern.example",
+    "subject": "Legal hold notice: Riverstone matter",
+    "classification": "restricted",
+    "date": "2026-02-10",
+    "labels": [
+      "legal"
+    ]
+  },
+  {
+    "id": "E20",
+    "sender": "tom.hale@cobaltfern.example",
+    "to": "jordan.avery@cobaltfern.example",
+    "subject": "Laptop refresh form",
+    "classification": "internal",
+    "date": "2026-02-19",
+    "labels": []
+  }
+]

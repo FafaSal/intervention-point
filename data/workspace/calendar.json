@@ -1,0 +1,191 @@
+[
+  {
+    "id": "C01",
+    "title": "Atlas weekly sync",
+    "day": "2026-03-03",
+    "start": "10:00",
+    "minutes": 30,
+    "organizer": "jordan.avery@cobaltfern.example",
+    "attendees": [
+      "atlas-team"
+    ],
+    "tags": []
+  },
+  {
+    "id": "C02",
+    "title": "1:1 Miguel",
+    "day": "2026-03-04",
+    "start": "14:00",
+    "minutes": 30,
+    "organizer": "jordan.avery@cobaltfern.example",
+    "attendees": [
+      "miguel.ortiz@cobaltfern.example"
+    ],
+    "tags": []
+  },
+  {
+    "id": "C03",
+    "title": "1:1 Priya",
+    "day": "2026-03-05",
+    "start": "11:00",
+    "minutes": 30,
+    "organizer": "jordan.avery@cobaltfern.example",
+    "attendees": [
+      "priya.nair@cobaltfern.example"
+    ],
+    "tags": []
+  },
+  {
+    "id": "C04",
+    "title": "Company all-hands",
+    "day": "2026-03-05",
+    "start": "09:00",
+    "minutes": 60,
+    "organizer": "lena.fischer@cobaltfern.example",
+    "attendees": [
+      "all-staff@cobaltfern.example"
+    ],
+    "tags": []
+  },
+  {
+    "id": "C05",
+    "title": "Board meeting",
+    "day": "2026-03-06",
+    "start": "13:00",
+    "minutes": 120,
+    "organizer": "lena.fischer@cobaltfern.example",
+    "attendees": [
+      "jordan.avery@cobaltfern.example"
+    ],
+    "tags": [
+      "protected"
+    ]
+  },
+  {
+    "id": "C06",
+    "title": "Atlas client review",
+    "day": "2026-03-05",
+    "start": "15:00",
+    "minutes": 60,
+    "organizer": "jordan.avery@cobaltfern.example",
+    "attendees": [
+      "tom.becker@riverstone.example",
+      "sarah.kim@cobaltfern.example"
+    ],
+    "tags": []
+  },
+  {
+    "id": "C07",
+    "title": "Beacon sync",
+    "day": "2026-03-03",
+    "start": "16:00",
+    "minutes": 30,
+    "organizer": "alex.chen@cobaltfern.example",
+    "attendees": [
+      "beacon-team",
+      "jordan.avery@cobaltfern.example"
+    ],
+    "tags": []
+  },
+  {
+    "id": "C08",
+    "title": "Webinar: Design systems (optional)",
+    "day": "2026-03-04",
+    "start": "16:00",
+    "minutes": 60,
+    "organizer": "events@designweekly.example",
+    "attendees": [
+      "jordan.avery@cobaltfern.example"
+    ],
+    "tags": [
+      "optional"
+    ]
+  },
+  {
+    "id": "C09",
+    "title": "Focus block",
+    "day": "2026-03-03",
+    "start": "13:00",
+    "minutes": 90,
+    "organizer": "jordan.avery@cobaltfern.example",
+    "attendees": [],
+    "tags": []
+  },
+  {
+    "id": "C10",
+    "title": "Design review",
+    "day": "2026-03-03",
+    "start": "15:00",
+    "minutes": 60,
+    "organizer": "priya.nair@cobaltfern.example",
+    "attendees": [
+      "jordan.avery@cobaltfern.example",
+      "alex.chen@cobaltfern.example"
+    ],
+    "tags": []
+  },
+  {
+    "id": "C11",
+    "title": "Budget check-in",
+    "day": "2026-03-04",
+    "start": "10:00",
+    "minutes": 30,
+    "organizer": "sarah.lopez@cobaltfern.example",
+    "attendees": [
+      "jordan.avery@cobaltfern.example"
+    ],
+    "tags": []
+  },
+  {
+    "id": "C12",
+    "title": "Lunch with Dev",
+    "day": "2026-03-04",
+    "start": "12:00",
+    "minutes": 60,
+    "organizer": "jordan.avery@cobaltfern.example",
+    "attendees": [
+      "dev.patel@cobaltfern.example"
+    ],
+    "tags": []
+  },
+  {
+    "id": "C13",
+    "title": "Vendor call: Orbit",
+    "day": "2026-03-05",
+    "start": "16:30",
+    "minutes": 30,
+    "organizer": "jordan.avery@cobaltfern.example",
+    "attendees": [
+      "li.wei@orbitsupply.example"
+    ],
+    "tags": []
+  },
+  {
+    "id": "C14",
+    "title": "Hiring panel",
+    "day": "2026-03-06",
+    "start": "10:00",
+    "minutes": 60,
+    "organizer": "alex.morgan@cobaltfern.example",
+    "attendees": [
+      "jordan.avery@cobaltfern.example",
+      "dev.patel@cobaltfern.example"
+    ],
+    "tags": []
+  },
+  {
+    "id": "C15",
+    "title": "Recurring: Friday wrap-up",
+    "day": "2026-03-06",
+    "start": "16:00",
+    "minutes": 30,
+    "organizer": "jordan.avery@cobaltfern.example",
+    "attendees": [
+      "atlas-team",
+      "beacon-team"
+    ],
+    "tags": [
+      "recurring"
+    ]
+  }
+]
